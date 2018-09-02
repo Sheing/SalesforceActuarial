@@ -1,4 +1,4 @@
-global with sharing class ActuarialLifeTable {
+public with sharing class ActuarialLifeTable{
     //Constructor
     public ActuarialLifeTable (decimal interestRate,string sex)
     {
@@ -162,7 +162,5 @@ global with sharing class ActuarialLifeTable {
         }else{
             return result;
         }
-    }
-    
-    
+    }        
 }
