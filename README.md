@@ -2,7 +2,10 @@
 The SalesforceActuarial library contains a simple ActuarialTable class for Mortality calculations leveraging Salesforce's native Custom Object and Fields.
 
 # Getting Started: 
-1. Create a Custom Object call Mortality_Table__c, with 3 fields (Age__c, Death_Probability_Male__c,Death_Probability_Female__c)
+1. Create a Custom Object call Mortality_Table__c, with 3 fields:
+* Age__c
+* Death_Probability_Male__c
+* Death_Probability_Female__c
 2. Upload your own Mortality Table to Salesforce through Data Upload Wizard.
 3. Data should consist of Age, Male Mortality, Female Mortality
 3. Map the data to correspond fields mentioned in step 1.
