@@ -1,6 +1,13 @@
 # SalesforceActuarial
 The SalesforceActuarial library contains a simple ActuarialTable class for Mortality calculations leveraging Salesforce's native Custom Object and Fields.
 
+---
+
+<p align="center"><strong>WORK IN PROGRESS</strong></p>
+
+---
+
+
 # Getting Started: 
 1. Create a Custom Object call Mortality_Table__c, with 3 fields:
 * Age__c
