@@ -38,4 +38,8 @@ ActuarialLifeTable.Axn(25,1,1);
 | `static Decimal` | `AnnDuenx(integer x, integer n, integer k, integer f)`|
 | `static Decimal` | `AnnDuex(integer x,integer k, integer f)`|
 
+# `TODO`
+1. Fix CPU Timeout Limit 
+2. Advanced Implementation 
+
 
